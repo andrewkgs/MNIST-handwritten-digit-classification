@@ -16,3 +16,9 @@ Goal: prediction accuracy over 99 %
 > https://mega.nz/#!WlI31LzI!Z6HAOnVIa-AOqQcDMPRKLldZ7Q7nXhsUycT7GY7IND4
 
 
+## Results
+> Public leaderboard
+> <img src="https://github.com/andrewkgs/MNIST-number-recognition/blob/master/public_score.png">
+
+> Private leaderboard
+> <img src="https://github.com/andrewkgs/MNIST-number-recognition/blob/master/private_score.png">
