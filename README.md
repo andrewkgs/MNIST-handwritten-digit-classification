@@ -7,7 +7,7 @@ GOAL: prediction accuracy over 99 %
 > <img src="http://knowm.org/wp-content/uploads/Screen-Shot-2015-08-14-at-2.44.57-PM.png" width="40%"> <br/>
 > Source: http://knowm.org/wp-content/uploads/Screen-Shot-2015-08-14-at-2.44.57-PM.png
 
-## Data source
+## Data source (collected by LeCun et al.)
 > Training data (images & labels): <br/>
 > http://yann.lecun.com/exdb/mnist/
 
