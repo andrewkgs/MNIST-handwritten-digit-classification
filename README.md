@@ -7,11 +7,13 @@ GOAL: prediction accuracy over 99 %
 <img src="http://knowm.org/wp-content/uploads/Screen-Shot-2015-08-14-at-2.44.57-PM.png" width="40%"> <br/>
 Source: http://knowm.org/wp-content/uploads/Screen-Shot-2015-08-14-at-2.44.57-PM.png
 
-## Data source (collected by LeCun et al. and prepared by MLDS2017 TAs)
-> Training data (images & labels): <br/>
+## Data description
+* Source: collected by LeCun et al. and prepared by MLDS2017 TAs
+
+* Training data (images & labels): <br/>
 > http://yann.lecun.com/exdb/mnist/
 
-> Testing data (images): <br/>
+* Testing data (images): <br/>
 > https://mega.nz/#!WlI31LzI!Z6HAOnVIa-AOqQcDMPRKLldZ7Q7nXhsUycT7GY7IND4
 
 ## Model description
@@ -37,10 +39,10 @@ def model(data, train=True):
 ```
 
 ## Training parameters and settings
-> batch size = 512 <br/>
-> training steps = 8000 <br/>
-> learning rate = 0.0017(starting rate) with exponential decay after 4000 steps <br/>
-> optimizer: AdamOptimizer <br/>
+* batch size = 512 <br/>
+* training steps = 8000 <br/>
+* learning rate = 0.0017(starting rate) with exponential decay after 4000 steps <br/>
+* optimizer: AdamOptimizer <br/>
 
 ## Results (The score of "B03611026")
 * Public score on Kaggle leaderboard (my accuracy = 99.360 %)
