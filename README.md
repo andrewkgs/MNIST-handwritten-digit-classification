@@ -42,9 +42,9 @@ def model(data, train=True):
 > learning rate = 0.0017(starting rate) with exponential decay after 4000 steps <br/>
 > optimizer: AdamOptimizer <br/>
 
-## Results
-> Public score on Kaggle leaderboard (my accuracy = 99.360 %)
-> <img src="https://github.com/andrewkgs/MNIST-number-recognition/blob/master/public_score.png">
+## Results (The score of "B03611026")
+* Public score on Kaggle leaderboard (my accuracy = 99.360 %)
+<img src="https://github.com/andrewkgs/MNIST-number-recognition/blob/master/public_score.png">
 
-> Private score on Kaggle leaderboard (my accuracy = 99.460 %)
-> <img src="https://github.com/andrewkgs/MNIST-number-recognition/blob/master/private_score.png">
+* Private score on Kaggle leaderboard (my accuracy = 99.460 %)
+<img src="https://github.com/andrewkgs/MNIST-number-recognition/blob/master/private_score.png">
