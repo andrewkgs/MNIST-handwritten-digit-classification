@@ -4,8 +4,8 @@ Homework 0 for MLDS course (2017 summer, NTU) <br/>
 GOAL: prediction accuracy over 99 %
 
 ## MNIST database
-> <img src="http://knowm.org/wp-content/uploads/Screen-Shot-2015-08-14-at-2.44.57-PM.png" width="40%"> <br/>
-> Source: http://knowm.org/wp-content/uploads/Screen-Shot-2015-08-14-at-2.44.57-PM.png
+<img src="http://knowm.org/wp-content/uploads/Screen-Shot-2015-08-14-at-2.44.57-PM.png" width="40%"> <br/>
+Source: http://knowm.org/wp-content/uploads/Screen-Shot-2015-08-14-at-2.44.57-PM.png
 
 ## Data source (collected by LeCun et al. and prepared by MLDS2017 TAs)
 > Training data (images & labels): <br/>
