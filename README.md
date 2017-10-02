@@ -45,8 +45,8 @@ def model(data, train=True):
 * optimizer: AdamOptimizer <br/>
 
 ## Results
-* Public score on Kaggle leaderboard (my accuracy [B03611026]: 99.360 %)
+* **Public** score on Kaggle leaderboard (my accuracy [ B03611026 ] : 99.360 %)
 <img src="https://github.com/andrewkgs/MNIST-number-recognition/blob/master/public_score.png">
 
-* Private score on Kaggle leaderboard (my accuracy [B03611026]: 99.460 %)
+* **Private** score on Kaggle leaderboard (my accuracy [ B03611026 ] : 99.460 %)
 <img src="https://github.com/andrewkgs/MNIST-number-recognition/blob/master/private_score.png">
